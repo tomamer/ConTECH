@@ -7696,14 +7696,14 @@ h1, h2, h3, h4, h5,
 
 .ftco-intro {
   margin-top: -80px; }
-  .ftco-intro.ftco-intro-2 {
+.ftco-intro.ftco-intro-2 {
     margin-top: 0 !important; }
-  .ftco-intro .block-18 {
+.ftco-intro .block-18 {
     display: block;
     width: 100%;
     padding: 30px;
     color: rgba(0, 0, 0, 0.7); }
-    .ftco-intro .block-18.color-1 {
+  .ftco-intro .block-18.color-1 {
       background: #f86f2d; }
     .ftco-intro .block-18.color-2 {
       background: #fa8f3d; }
